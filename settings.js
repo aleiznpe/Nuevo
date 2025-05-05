@@ -11,16 +11,16 @@ import moment from 'moment-timezone'
 
 //Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: 51993047526
+global.botNumberCode = '' //Ejemplo: 51992621601
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['51993047526', 'xd', true],
-   ['51993047526', 'xd', true],
-   ['51993047526', 'xd', true],
-   ['51993047526'],
+   ['51992621601', 'xd', true],
+   ['51992621601', 'xd', true],
+   ['51992621601', 'xd', true],
+   ['51992621601'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -44,33 +44,33 @@ global.libreria = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
-global.nameqr = 'GHOSTBOT'
-global.namebot = 'GHOSTBOT'
-global.sessions = 'GHOSTBOTSession'
-global.jadi = 'GHOSTBOTJadiBot'
+global.nameqr = 'ALEIZNBOT'
+global.namebot = 'ALEIZNBOT'
+global.sessions = 'ALEIZNBOTSession'
+global.jadi = 'ALEIZNBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'GHOSTBOT'
-global.botname = 'GHOSTBOT'
+global.packname = 'ALEIZNBOT'
+global.botname = 'ALEIZNBOT'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
-global.author = 'GHOSTBOT'
+global.author = 'ALEIZNBOT'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 GHOSTBOT'
+global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 ALEIZNBOT'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/img/catalogo.jpg')
-global.GHOSTBOT = fs.readFileSync('./src/img/GHOSTBOT.jpg')
+global.ALEIZNBOT = fs.readFileSync('./src/img/ALEIZNBOT.jpg')
 global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.grupo = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
 global.channel = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIav88844'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIav88844'
-global.md = 'https://wa.me/51993047526' 
-global.ig = 'https://www.instagram.com/alexnsnk7'
+global.md = 'https://wa.me/51992621601' 
+global.ig = 'https://www.instagram.com/ale.izn_20'
 global.tiktok = 'https://www.tiktok.com/@savagehax'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*

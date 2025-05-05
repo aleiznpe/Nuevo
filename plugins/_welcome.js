@@ -51,7 +51,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
         .replace('@desc', () => groupMetadata.desc || 'sin descripción');
     } else {
     let user = `@${m.messageStubParameters[0].split`@`[0]}`
-    bye = `👋🏻 *𝐂𝐡𝐚𝐨𝐨*\n👤: ${user}\n🤷🏻‍♂️ 𝐔𝐧𝐚 𝐛𝐚𝐬𝐮𝐫𝐚 𝐦𝐞𝐧𝐨𝐬 😮‍💨🖕🏼\n\n> GHOST BOT 🔥`
+    bye = `👋🏻 *𝐂𝐡𝐚𝐨𝐨*\n👤: ${user}\n🤷🏻‍♂️ 𝐔𝐧𝐚 𝐛𝐚𝐬𝐮𝐫𝐚 𝐦𝐞𝐧𝐨𝐬 😮‍💨🖕🏼\n\n> ALEIZN BOT 🔥`
     }
     let text = bye
     let message = {
@@ -76,7 +76,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 
   if (chat.bienvenida && m.messageStubType == 32) {
     let user = `@${m.messageStubParameters[0].split`@`[0]}`
-    let text = chat.sBye || `👋🏻 *𝐂𝐡𝐚𝐨𝐨*\n👤: ${user}\n🤷🏻‍♂️ 𝐔𝐧𝐚 𝐛𝐚𝐬𝐮𝐫𝐚 𝐦𝐞𝐧𝐨𝐬 😮‍💨🖕🏼\n\n> GHOST BOT 🔥`
+    let text = chat.sBye || `👋🏻 *𝐂𝐡𝐚𝐨𝐨*\n👤: ${user}\n🤷🏻‍♂️ 𝐔𝐧𝐚 𝐛𝐚𝐬𝐮𝐫𝐚 𝐦𝐞𝐧𝐨𝐬 😮‍💨🖕🏼\n\n> ALEIZN BOT 🔥`
 
     let message = {
       caption: text,

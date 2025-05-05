@@ -1,5 +1,5 @@
 {
-"name": "GHOSTBOT",
+"name": "ALEIZNBOT",
 "version": "2.0.7",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -20,7 +20,7 @@
 },
 "homepage": "https://github.com/Adrianmaze/ferr",
 "author": {
-"name": "GHOSTBOT"
+"name": "ALEIZNBOT"
 },
 "collaborators": {
 "col1": "@Alexn",

@@ -28,7 +28,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
         txt += `*📅 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚍𝚘* : ${published}\n`
         txt += `*👍🏻 𝙻𝚒𝚔𝚎𝚜* : ${likes}\n`
         txt += `*👀 𝚅𝚒𝚜𝚒𝚝𝚊𝚜* : ${views}\n`
-        txt += `\n> @GhostBot - 𝟢𝟨`
+        txt += `\n> @ALEIZNBOT - 𝟢𝟨`
 
         await conn.sendMessage(m.chat, { video: { url: dl_url }, caption: txt }, { quoted: m });
     } catch {
